@@ -1,16 +1,10 @@
-# bmi_app
+# App to Calcualte BMI
 
-A new Flutter project.
+## Features :
+- Multiple Units for height
+- Mulitple Units for Weight
+- Colored Panel showing BMI according to BMI Category
+- BMI scale showing gradient from underweight to obese
+- Shows Target Weight range for user to be healthy
+- Shows How much weight User need to gain or loose to attain a healthy Bmi
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
