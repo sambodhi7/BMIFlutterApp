@@ -8,4 +8,5 @@
 - Shows Target Weight range for user to be healthy
 - Shows How much weight User need to gain or loose to attain a healthy Bmi
 
-![]("img1.png")
+![](img1.png)
+![](img2.png)
